@@ -1,0 +1,3 @@
+objectName.propertyName
+
+objectName["propertyName"]
